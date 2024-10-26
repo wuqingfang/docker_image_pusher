@@ -1,3 +1,4 @@
 linuxserver/qbittorrent:latest
 jgraph/drawio
 openjdk:8
+snowdreamtech/frpc:latest
